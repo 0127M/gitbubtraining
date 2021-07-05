@@ -3,3 +3,8 @@ this ischet applications
 Emoji 
 type option 
 colors
+
+
+size of the image 
+introduction of the image 
+production of the image 
